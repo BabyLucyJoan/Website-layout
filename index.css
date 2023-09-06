@@ -1,0 +1,154 @@
+/* nav{
+    border: 2px solid green;
+}
+nav ul li{
+    display: inline-block;
+    margin-right: 20px;
+    font-size: 20px;
+    font-weight: 500;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    cursor: pointer;
+}
+
+nav ul li:hover{
+    background-color: blue;
+    color: white;
+    padding: 5px 0;
+    border-bottom: 1px solid red;
+}
+span{
+    padding-left: 150px;
+} */
+.container{
+    border: 1px solid black;
+    padding-left: 10px;
+    
+
+}
+
+nav ul{
+    display: flex;
+    list-style: none;
+    border: 1px solid rgba(255, 0, 0, 0.792);
+    margin-left: 3px;
+    margin-right: 10px;
+    padding: 10px;
+    
+}
+nav ul li{
+    padding-right: 350px;
+    font-size: 15px;
+    font-weight: 500;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    cursor: pointer;
+    
+}
+.one{
+
+    width: 180px;
+    height: 180px;
+    background-color: red;
+    display: inline-block;
+    padding-right: 240px; 
+    margin-right: 2px;
+}
+.two{
+    width: 180px;
+    height: 180px;
+    background-color: rgba(226, 51, 109, 0.866);
+    display: inline-block; 
+    padding-left: 700px;
+
+}
+.three{
+
+    width: 180px;
+    height: 180px;
+    background-color: red;
+    display: inline-block;
+    padding-right: 700px;
+}
+.four{
+
+    width: 180px;
+    height: 180px;
+    background-color: rgba(226, 51, 109, 0.866);
+    display: inline-block;
+    padding-right: 240px;
+    margin-right: 2px;
+
+}
+.five{
+
+    width: 180px;
+    height: 180px;
+    background-color: red;
+    display: inline-block;
+    padding-right: 470px;
+    flex: 1;
+}
+.six{
+
+    width: 180px;
+    height: 180px;
+    background-color: rgba(226, 51, 109, 0.866);
+    display: inline-block;
+    padding-left: 470px;
+    flex: 1; 
+    margin-right: 6px;
+}
+/* .container{
+    border: 2px solid green;
+    margin-top: 1em;
+    padding: 0.5em;
+    display: flex;
+}
+.box-one{
+
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    margin-right: 10px;
+    flex: 1;
+
+}
+
+.box-two{
+    width: 400px;
+    height: 200px;
+    background-color: blueviolet;
+    flex: 1;
+} */
+
+/* .left{
+    border: 2px solid green;
+    padding: 20px;
+    margin-right: 20px;
+    background-color: grEEN;
+}
+.right{
+    border: 2px solid red;
+    padding: 20px;
+    background-color: brown;
+}
+.ctn2{
+    border: 2px solid black;
+    margin-top: 10px;
+    display: flex;
+    padding: 10px;
+}
+.me{
+    border: 2px solid blue;
+    padding: 20px;
+    margin-right: 20px;
+}
+.you{
+    border: 2px solid green;
+    padding: 20px;
+    margin-right: 20px;
+}
+.us{
+    border: 2px solid red;
+    padding: 20px;
+    
+} */
